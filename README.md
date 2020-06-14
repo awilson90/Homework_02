@@ -28,11 +28,11 @@ Script will loop through all the stocks for one year for each run and take the f
 
 ## Overview
 
-![overview](images/overview.jpg)
+![overview](images/overview.JPG)
 
 The capture above shows a partial view of the workbook. Notice a command button called "Start" has been created to run the script for all spreadsheets. 
 
-![results](images/results.jpg)
+![results](images/results.JPG)
 
 Finally, the last capture displays the requirements described on the "Basic Methodology" section. 
 
