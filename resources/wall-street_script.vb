@@ -61,7 +61,7 @@ For i = 2 To last_row       'Record unique tickers w/total volumes
        Close_Value = Cells(i, 6).Value
        Range("M" & j).Value = ticker
        Range("N" & j).Value = Total_Stock_Volume
-       Range("O" & j).Value = Open_Value - Close_Value
+       Range("O" & j).Value = Close_Value - Open_Value
        
        If Open_Value <> 0 Then         ' to avoid overflow caused by 0/0
           Range("P" & j).Value = ((Close_Value - Open_Value) / (Abs(Open_Value)))
