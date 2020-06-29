@@ -1,4 +1,4 @@
-# MS Excel/VBA Project - VBA Wall Street
+# VBA Wall Street Project
 
 ## Background
 
