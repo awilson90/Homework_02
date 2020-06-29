@@ -4,7 +4,7 @@
 
 ![wall-street](images/wall-street.jpg)
 
-For this project, we will use VBA scripting to analyze real stock market data for the 2014-2016 period. 
+For this project, we will use VBA scripting to analyze past real stock market data for the 2014-2016 period. 
 
 ## Objective
 
